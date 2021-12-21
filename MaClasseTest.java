@@ -1,4 +1,4 @@
-import junit.framework.*;
+import junit.*;
 
 public class MaClasseTest extends TestCase {
 
